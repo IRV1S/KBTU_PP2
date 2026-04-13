@@ -14,8 +14,6 @@ class ReverseIterator:
         return char
 
 
-# Ввод данных
 s = input()
 
-# Эффективный способ - использование list и join
 print(''.join(ReverseIterator(s)))

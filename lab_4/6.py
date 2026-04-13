@@ -4,9 +4,7 @@ def fibonacci_generator(n):
         yield a
         a, b = b, a + b
 
-# Ввод данных
 n = int(input())
 
-# Генерация и вывод
 fib_numbers = list(fibonacci_generator(n))
 print(','.join(map(str, fib_numbers)))

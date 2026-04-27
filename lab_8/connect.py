@@ -1,11 +1,11 @@
 # connect.py
 import psycopg2
-from config import DB_CONFIG
+from config import conn
 
 def get_connection():
     try:
-        conn = psycopg2.connect(**DB_CONFIG)
-        return conn
+        connect = psycopg2.connect(**conn)
+        return connect
     except Exception as e:
         print(f"Ошибка подключения к базе: {e}")
         return None

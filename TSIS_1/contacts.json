@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Bauyrzhan Seitkali",
+    "email": "baur@gmail.com",
+    "birthday": "1991-06-14",
+    "group": "Friend",
+    "phones": [
+      {"phone": "87001234500", "type": "mobile"},
+      {"phone": "87272345600", "type": "work"}
+    ]
+  },
+  {
+    "name": "Asel Nurmagambetova",
+    "email": "asel.nur@mail.ru",
+    "birthday": "1999-02-28",
+    "group": "Work",
+    "phones": [
+      {"phone": "87712345900", "type": "mobile"}
+    ]
+  },
+  {
+    "name": "Ruslan Akhmetov",
+    "email": null,
+    "birthday": "1983-10-03",
+    "group": "Family",
+    "phones": [
+      {"phone": "87021234567", "type": "home"},
+      {"phone": "87771234567", "type": "mobile"},
+      {"phone": "87272112233", "type": "work"}
+    ]
+  },
+  {
+    "name": "Kamila Dosova",
+    "email": "kamila.dosova@yahoo.com",
+    "birthday": "2003-07-19",
+    "group": "Friend",
+    "phones": [
+      {"phone": "+77009876543", "type": "mobile"}
+    ]
+  },
+  {
+    "name": "Alisher Bekmuratov",
+    "email": "alisher@company.kz",
+    "birthday": "1978-12-31",
+    "group": "Work",
+    "phones": [
+      {"phone": "87076543210", "type": "work"}
+    ]
+  },
+  {
+    "name": "Ainur Suleimenova",
+    "email": "ainur.s@gmail.com",
+    "birthday": "1996-04-07",
+    "group": "Family",
+    "phones": [
+      {"phone": "87019998877", "type": "mobile"},
+      {"phone": "87273334455", "type": "home"}
+    ]
+  },
+  {
+    "name": "Marat Dzhumabekov",
+    "email": null,
+    "birthday": "1987-09-15",
+    "group": "Other",
+    "phones": [
+      {"phone": "87754443322", "type": "mobile"}
+    ]
+  }

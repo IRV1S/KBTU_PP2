@@ -1,4 +1,3 @@
-
 conn = {
     "host": "localhost",
     "database": "phonebook",
